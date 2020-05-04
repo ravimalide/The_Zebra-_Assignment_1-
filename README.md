@@ -46,7 +46,7 @@ Output Schema:
 7. Zipcode -- Type: Float , Non Nullable
 
 How to Run Unit Test:
-open Unit_Test.py in pycharm IDE, set up the (virtual) environment to use python 3.7
+open Unit_Test.py set up the (virtual) environment to use python 3.7
 run Unit_Test.py
 
 
